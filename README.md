@@ -83,7 +83,7 @@ Setup
 =====
 
 CREST depends on Yices 1, an SMT solver tool and library available at
-http://yices.csl.sri.com/old/download-yices1.shtml.  To build and run
+https://yices.csl.sri.com/old/download-yices1.html.  To build and run
 CREST, you must download and install Yices *version 1* and change
 YICES_DIR in src/Makefile to point to Yices location.
 
